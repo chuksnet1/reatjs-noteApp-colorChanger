@@ -1,0 +1,10 @@
+.dis-container {
+  /* display: flex; */
+  /* float: left; */
+  margin: 10px;
+  border: 1px solid red;
+  height: 20vh;
+  width: 30vw;
+  color: black;
+  background-color: green;
+}

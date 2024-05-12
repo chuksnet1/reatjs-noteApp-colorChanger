@@ -1,0 +1,17 @@
+.text-container{   
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; 
+  margin: 10px;
+  border: 1px solid blue;
+  background-color: black;
+  height: 20vh;
+  width: 30vw fit-content;
+}
+
+button{
+    margin-top: 5px;
+    border-radius: 30%;
+    font-weight: bold;
+}
